@@ -2,4 +2,5 @@
 - 👀 Meet or not meet, I wish you and I are all well.
 - 🌱 I can so so…
 - 💞️ undefined
+- 🌐 WebSite: [Truimo's Notes](https://blog.truimo.com/)
 - 📫 Email: [Xiaomo@20mo.cn](mailto:xiaomo@20mo.cn)
