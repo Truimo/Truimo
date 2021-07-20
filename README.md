@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Truimo
+- 👀 Meet or not meet, I wish you and I are all well.
+- 🌱 I can so so…
+- 💞️ undefined
+- 📫 Email: [Xiaomo@20mo.cn](mailto:xiaomo@20mo.cn)
