@@ -6,10 +6,6 @@
 
 ![stars](https://proxy.catci.cn/github-profile-summary-cards/cards/stats?username=truimo&theme=default) ![Top Languages by Commit](https://proxy.catci.cn/github-profile-summary-cards/cards/most-commit-language?username=truimo&theme=default)
 
-## 👀 现状
-
-学习、学习，Coding……
-
 ## 🎃 入门的技能
 
 ![html5](https://img.shields.io/badge/-Html-f16500?style=flat-square&logo=html5&logoColor=white) ![Css3](https://img.shields.io/badge/-Css3-298cad?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-fcdc00?style=flat-square&logo=javascript&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-c69?style=flat-square&logo=sass&logoColor=white)
