@@ -4,7 +4,7 @@
 
 目前咱在软件技术专业摸鱼，已经摸不着头脑啦……
 
-![stars](https://proxy.catci.cn/github-profile-summary-cards/cards/stats?username=truimo&theme=default) ![Top Languages by Commit](https://proxy.catci.cn/github-profile-summary-cards/cards/most-commit-language?username=truimo&theme=default)
+![stars](https://proxy.20mo.cn/github-profile-summary-cards/cards/stats?username=truimo&theme=default) ![Top Languages by Commit](https://proxy.20mo.cn/github-profile-summary-cards/cards/most-commit-language?username=truimo&theme=default)
 
 ## 🎃 入门的技能
 
